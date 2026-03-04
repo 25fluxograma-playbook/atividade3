@@ -81,10 +81,6 @@ Realizamos o tratamento de 4 imagens utilizando métodos de pré-processamento e
 ![Imagem 02 - Processamento](Resultados/imagem4.png)
 **Fonte:** Imagens da Internet.
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-
-
-          
 
 ---
 
@@ -92,3 +88,5 @@ Realizamos o tratamento de 4 imagens utilizando métodos de pré-processamento e
 * **Compilado:** A análise mostrou que modelos lineares são robustos para prever o PIB baseado no petróleo na região estudada.
 * **Contribuições:** Demonstração prática de integração entre análise tabular e processamento de imagem em um único fluxo de trabalho.
 * **Futuros Estudos:** Exploração de Redes Neurais Convolucionais (CNNs) para análise automática das imagens dos mapas.
+
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
