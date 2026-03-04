@@ -9,7 +9,7 @@ para facilitar a comprrensão dos dados
 Utilizei a biblioteca **Pandas** para todo o ciclo de vida dos dados, desde a carga até a análise descritiva.
 
 * **Importância do Pandas:** A biblioteca permitiu a manipulação eficiente de DataFrames, facilitando a união de fontes de dados heterogêneas.
-* **Construção de Estruturas:** Foram interpretados e construídos DataFrames a partir dos arquivos `oriente_medio.csv` e `mundial_petroleo.csv`.
+* **Construção de Estruturas:** Foram interpretados e construídos DataFrames a partir dos arquivos `oriente.csv` e `mundial_petroleo.csv`.
 * Esses dados foram retirados do site Kaggle, e para não ficarem imensos escolhi alguns dados.*
 * **Limpeza e Tratamento:** Aplicamos a remoção de valores ausentes (`dropna`) e a correção de dados inconsistentes para garantir a qualidade das predições.
 * **Operações Realizadas:** Executamos seleção de colunas específicas, filtragem por países, ordenação cronológica e agregação de dados para médias anuais.
@@ -81,7 +81,10 @@ Realizamos o tratamento de 4 imagens utilizando métodos de pré-processamento e
 ![Imagem 02 - Processamento](Resultados/imagem4.png)
 **Fonte:** Imagens da Internet.
 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 
+
+          
 
 ---
 
