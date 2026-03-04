@@ -1,0 +1,9 @@
+[Running] python -u "c:\Users\zimac\OneDrive\Área de Trabalho\Machine learning\aula 3\atividade.py"
+
+=== TABELA DE COMPARACAO ===
+                    Metodo  Erro Medio Quadratico (MSE) Melhor Performance
+0      Literatura (Linear)                   119.693295                   
+1  Proprio (Random Forest)                   156.125259                   
+
+[Done] exited with code=0 in 4.911 seconds
+
