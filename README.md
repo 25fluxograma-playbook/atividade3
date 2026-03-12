@@ -2,7 +2,7 @@
 
 Este projeto apresenta uma análise integrada utilizando técnicas de **Ciência de Dados** e **Processamento de Imagens**, atendendo aos requisitos da atividade ATIV-03.
 Aproveitei a realidade atual para fazer a minha atividadebaseada em fatos que estão ocorrendo. Sobre o oriente.csv, na verdade tive que renomear pois o git não permitia o nome original que era "oriente_medio.csv", esse arquivo foi baixado no kaggle, mas possía outro nome em inglês, alterei o nome 
-para facilitar a comprrensão dos dados
+para facilitar a compreensão dos dados
 
 
 ## 1. Metodologia de Dados (Pandas)
